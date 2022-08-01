@@ -1,4 +1,4 @@
-  ### Olá, sejam bem vidos. 👋
+  ### Olá, sejam bem vindos. 👋
 
 <!--
 **Gabbyzin/Gabbyzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
